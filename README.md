@@ -4,6 +4,16 @@ An interactive computer vision platform built with **PyTorch** and **Streamlit**
 
 ---
 
+## 🎥 Demo Walkthrough
+
+<div align="center">
+  <video src="demo.mp4" controls="controls" width="100%"></video>
+</div>
+
+> 📹 *If the video player doesn't load directly in your preview, click [here to view demo.mp4](demo.mp4).*
+
+---
+
 ## ✨ Key Features
 
 1. **🎨 Multi-Modal Input Suite**
